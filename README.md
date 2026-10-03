@@ -214,4 +214,4 @@ SDEdit is offered as a full free version, with all features and updates included
 Take advantage of this **official SDEdit free download** for Windows today and start creating beautiful sequence diagrams with ease!
 
 ---
-**Last updated:** 2026-10-03 07:31:12 UTC
+**Last updated:** 2026-10-03 12:59:47 UTC
